@@ -36,7 +36,7 @@ if(valid_move?(board, index))
   move(board, index)
   display_board(board)
 end
-
+end
 end
 
 def position_taken?(board, index)
