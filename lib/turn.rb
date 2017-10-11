@@ -36,7 +36,6 @@ if(valid_move?(board, index))
   display_board(board)
 end
 end
-end
 
 def position_taken?(board, index)
   if(board[index]=="")
