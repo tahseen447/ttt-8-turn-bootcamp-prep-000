@@ -28,7 +28,7 @@ end
 
 
 def turn(board)
-  puts "Welcome to Tic Tac Toe!"
+#  puts "Welcome to Tic Tac Toe!"
   board =[" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
   puts "Please enter 1-9:"
